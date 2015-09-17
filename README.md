@@ -1,6 +1,8 @@
 # Demo
-This is a demo project, created to:
+This is a demo project, created to...
 
-* demo stuff
-* give a demo of stuff
-* stuff the demo to give of
+* Demo stuff.
+* Give a demo of stuff.
+* Stuff the demo to give of.
+
+!!!
