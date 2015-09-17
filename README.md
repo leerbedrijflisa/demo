@@ -6,7 +6,7 @@ This is a demo project, created to...
 * Stuff the demo to give of.
 * Erwin is koning.
 
-# ERWIN IS KONING.
-## ERWIN IS KONING.
-## Heb ik al gezegd dat Erwin koning is?
+# RICK IS KONING.
+## RICK IS KONING.
+## Heb ik al gezegd dat Rick koning is?
 !!!
