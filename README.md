@@ -11,6 +11,6 @@ This is a demo project, created to...
 ## Instructions
 Do the right thing.
 
-# ERWIN IS KONING.
-## ERWIN IS KONING.
-## Heb ik al gezegd dat Erwin koning is?
+# ERWIN IS KONINGIN.
+## ERWIN IS KONINGIN.
+## Heb ik al gezegd dat Erwin koningin is?
