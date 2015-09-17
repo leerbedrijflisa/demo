@@ -6,3 +6,6 @@ This is a demo project, created to...
 * Stuff the demo to give of.
 
 !!!
+
+## Instructions
+Do the right thing.
